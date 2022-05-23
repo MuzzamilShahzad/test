@@ -42,6 +42,7 @@ use App\Http\Controllers\SupportTicketController;
 use App\Http\Controllers\TaxController;
 use App\Http\Controllers\UpdateController;
 use App\Http\Controllers\WebsiteController;
+use App\Http\Controllers\MenuController;
 
 /*
   |--------------------------------------------------------------------------
@@ -100,6 +101,11 @@ Route::group(['prefix' => 'admin', 'middleware' => ['auth', 'admin']], function(
         Route::post('/products/sku_combination', 'sku_combination')->name('products.sku_combination');
         Route::post('/products/sku_combination_edit', 'sku_combination_edit')->name('products.sku_combination_edit');
         Route::post('/products/add-more-choice-option', 'add_more_choice_option')->name('products.add-more-choice-option');
+    });
+
+    // Menus
+    Route::controller(MenuController::class)->group(function () {
+        Route::get('/menus/create', 'create')->name('menus.create');
     });
 
     // Digital Product
