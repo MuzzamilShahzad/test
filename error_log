@@ -1,0 +1,612 @@
+[27-Oct-2021 16:27:02 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(40): route('home')
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admin in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[27-Oct-2021 16:27:30 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(40): route('home')
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admin in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[13-Nov-2021 06:56:19 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:620
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(620): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 620, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 620
+[15-Nov-2021 16:39:18 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:620
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(620): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 620, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 620
+[15-Nov-2021 16:40:12 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:620
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(620): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 620, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 620
+[19-Nov-2021 16:03:53 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:620
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(620): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 620, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 620
+[20-Nov-2021 01:52:50 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:620
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(620): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 620, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 620
+[20-Nov-2021 01:55:26 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:620
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(620): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 620, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 620
+[23-Nov-2021 00:08:33 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:620
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(620): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 620, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 620
+[23-Nov-2021 11:05:48 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:620
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(620): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 620, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 620
+[27-Nov-2021 01:58:58 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[27-Nov-2021 20:07:28 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[29-Nov-2021 22:08:18 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[01-Dec-2021 14:07:11 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[01-Dec-2021 14:10:09 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[07-Dec-2021 09:40:05 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[08-Dec-2021 16:22:42 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[10-Dec-2021 11:00:53 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[10-Dec-2021 11:22:30 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[13-Dec-2021 08:46:26 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[13-Dec-2021 08:46:30 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[13-Dec-2021 15:38:03 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[13-Dec-2021 15:38:08 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[15-Dec-2021 17:10:17 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[15-Dec-2021 17:11:30 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[15-Dec-2021 17:11:43 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[15-Dec-2021 19:33:59 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[15-Dec-2021 19:35:52 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[19-Dec-2021 20:49:27 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[19-Dec-2021 20:50:27 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[19-Dec-2021 20:50:44 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[23-Dec-2021 17:54:54 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[28-Dec-2021 15:50:01 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[01-Jan-2022 15:57:40 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[06-Jan-2022 20:57:46 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[06-Jan-2022 21:18:21 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[12-Jan-2022 13:19:34 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[12-Jan-2022 21:25:14 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[16-Jan-2022 07:16:32 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[16-Jan-2022 07:18:08 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/54732c8d8f94e9c09971548724cf30f3d06f2211.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[17-Jan-2022 12:39:38 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Cache::rememberForever() in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:261
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(460): Illuminate\Support\Facades\Facade::__callStatic('rememberForever', Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/dfc467b76212fa8d454dd04542488865e33e6c18.php(9): translate('Something went ...')
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409 in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 261
+[17-Jan-2022 12:39:39 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Cache::rememberForever() in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:261
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(460): Illuminate\Support\Facades\Facade::__callStatic('rememberForever', Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/dfc467b76212fa8d454dd04542488865e33e6c18.php(9): translate('Something went ...')
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409 in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 261
+[22-Jan-2022 05:23:46 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[29-Jan-2022 04:39:19 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[29-Jan-2022 04:41:58 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[02-Feb-2022 05:58:01 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[02-Feb-2022 05:59:58 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[04-Feb-2022 06:01:47 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[15-Feb-2022 18:57:02 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[15-Feb-2022 18:58:32 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:625
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(625): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 625, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 625
+[20-Feb-2022 01:23:14 Asia/Karachi] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(40): route('home')
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admin in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[10-Mar-2022 04:20:43 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'admintajjarpk40...', '&97x8]D;l=8k(84...', Array)
+#1 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'admintajjarpk40...', '&97x8]D;l=8k(84...', Array)
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Database/Conn in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[13-Mar-2022 23:57:43 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[15-Mar-2022 02:15:53 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[15-Mar-2022 02:17:45 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[20-Mar-2022 08:14:48 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[20-Mar-2022 08:15:57 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[20-Mar-2022 08:16:07 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[21-Mar-2022 09:06:17 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[21-Mar-2022 09:26:06 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[30-Mar-2022 18:12:39 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[30-Mar-2022 18:12:53 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[15-Apr-2022 07:55:54 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[23-Apr-2022 05:34:03 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[26-Apr-2022 13:39:06 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:632
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(632): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 632, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 632
+[07-May-2022 22:25:52 Asia/Karachi] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: purchase_history.details] [URI: purchase_history/details/{id}] [Missing parameter: id]. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illu in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[07-May-2022 22:25:59 Asia/Karachi] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: purchase_history.details] [URI: purchase_history/details/{id}] [Missing parameter: id]. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illu in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[07-May-2022 22:26:20 Asia/Karachi] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: purchase_history.details] [URI: purchase_history/details/{id}] [Missing parameter: id]. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illu in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[07-May-2022 22:26:28 Asia/Karachi] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: purchase_history.details] [URI: purchase_history/details/{id}] [Missing parameter: id]. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illu in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[07-May-2022 22:29:46 Asia/Karachi] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: purchase_history.details] [URI: purchase_history/details/{id}] [Missing parameter: id]. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illu in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[07-May-2022 22:34:40 Asia/Karachi] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: purchase_history.details] [URI: purchase_history/details/{id}] [Missing parameter: id]. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illu in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[07-May-2022 22:35:37 Asia/Karachi] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: purchase_history.details] [URI: purchase_history/details/{id}] [Missing parameter: id]. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illu in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[07-May-2022 22:37:23 Asia/Karachi] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: purchase_history.details] [URI: purchase_history/details/{id}] [Missing parameter: id]. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illu in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[07-May-2022 22:38:22 Asia/Karachi] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: purchase_history.details] [URI: purchase_history/details/{id}] [Missing parameter: id]. in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illu in /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[14-May-2022 05:05:00 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:615
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(615): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 615, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 615
+[14-May-2022 19:17:21 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:615
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(615): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 615, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 615
+[14-May-2022 19:17:23 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:615
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(615): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 615, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 615
+[18-May-2022 06:47:18 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:615
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(615): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 615, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 615
+[18-May-2022 06:47:21 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: HTTP_HOST in /home/admintajjarpk409/public_html/app/Http/Helpers.php:615
+Stack trace:
+#0 /home/admintajjarpk409/public_html/app/Http/Helpers.php(615): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/admintajj...', 615, Array)
+#1 /home/admintajjarpk409/public_html/storage/framework/views/b089cefffa4046c663f02dc1dd927ffa26a1d6cc.php(10): getBaseURL()
+#2 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/admintajj...')
+#3 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/admintajj...', Array)
+#5 /home/admintajjarpk409/public_html/vendor/laravel/framework/src/Illuminate/View/ in /home/admintajjarpk409/public_html/app/Http/Helpers.php on line 615
