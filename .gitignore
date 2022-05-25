@@ -1,6 +1,6 @@
 /bootstrap/compiled.php
-.env.*.php
-.env.php
+# .env.*.php
+# .env.php
 /node_modules
 /public/hot
 /public/storage
@@ -20,8 +20,8 @@ yarn-error.log
 .idea/
 
 updates/
-composer.lock
-*.lock
+# composer.lock
+# *.lock
 resources/lang/en.json
 .env
 updates.zip
