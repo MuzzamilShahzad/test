@@ -11,6 +11,7 @@ use CoreComponentRepository;
 class MenuController extends Controller
 {
     public function create(){
+        //  
         CoreComponentRepository::initializeCache();
 
         $categories = Category::where('parent_id', 0)
